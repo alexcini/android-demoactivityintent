@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoActivityIntent</string>
+    <string name="hint_username">Informe seu username</string>
+    <string name="hint_nome">Informe seu nome</string>
+    <string name="hint_senha">Informe sua senha</string>
+    <string name="logar">Logar</string>
+    <string name="criar_conta">Criar conta</string>
+    <string name="sou_novo_usuario">Sou novo usuario</string>
+</resources>
